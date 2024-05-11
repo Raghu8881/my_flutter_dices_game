@@ -18,3 +18,6 @@ Clone the repository to your local machine.
 Open the project in Android Studio or Visual Studio Code.
 Run the app on an emulator or physical device using Flutter.
 Feel free to customize and extend the app according to your needs or use it as a learning resource for Flutter development!
+
+
+![Dice_overview](https://github.com/Raghu8881/my_flutter_dices_game/assets/63818961/bdca36bb-879e-4766-908b-ae571d0b6868)
